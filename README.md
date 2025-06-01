@@ -34,3 +34,10 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+
+
+
+# Using Terminal
+npm install
+npm install @supabase/supabase-js@^2.49.4 ionicons@^7.4.0 lucide@^0.487.0 next@15.2.4 react@^19.0.0 react-dom@^19.0.0 react-toastify@^11.0.5 recharts@^2.15.3 swiper@^11.2.6
