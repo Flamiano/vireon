@@ -40,4 +40,6 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 
 # Using Terminal
 npm install
-npm install @supabase/supabase-js@^2.49.4 ionicons@^7.4.0 lucide@^0.487.0 next@15.2.4 react@^19.0.0 react-dom@^19.0.0 react-toastify@^11.0.5 recharts@^2.15.3 swiper@^11.2.6
+npm install @supabase/supabase-js@^2.49.4 ionicons@^7.4.0 next@15.2.4 react@^19.0.0 react-dom@^19.0.0 react-toastify@^11.0.5 recharts@^2.15.3 swiper@^11.2.6
+npm install lucide-react
+
