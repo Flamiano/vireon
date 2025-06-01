@@ -40,11 +40,11 @@ export const Header = () => {
       {isOpen && (
         <div className="md:hidden bg-vireon-white shadow-md">
           <nav className="px-4 py-4 space-y-2">
-            <Link href="/" className="block text-vireon-charcoal hover:text-vireon-primaryGreen">Home</Link>
-            <Link href="/tracker" className="block text-vireon-charcoal hover:text-vireon-primaryGreen">Tracker</Link>
-            <Link href="/workouts" className="block text-vireon-charcoal hover:text-vireon-primaryGreen">Workouts</Link>
-            <Link href="/nutrition" className="block text-vireon-charcoal hover:text-vireon-primaryGreen">Nutrition</Link>
-            <Link href="/about" className="block text-vireon-charcoal hover:text-vireon-primaryGreen">About</Link>
+            <Link href="/" className="block text-vireon-charcoal hover:text-vireon-primaryGreen">Start Here</Link>
+            <Link href="/about" className="block text-vireon-charcoal hover:text-vireon-primaryGreen">Who We Are</Link>
+            <Link href="/expertise" className="block text-vireon-charcoal hover:text-vireon-primaryGreen">Our Expertise</Link>
+            <Link href="/services" className="block text-vireon-charcoal hover:text-vireon-primaryGreen">Plans & Packages</Link>
+            <Link href="/contact" className="block text-vireon-charcoal hover:text-vireon-primaryGreen">Connect With Us</Link>
           </nav>
         </div>
       )}
